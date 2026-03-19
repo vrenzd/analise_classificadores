@@ -44,13 +44,13 @@ Treinar e comparar os seguintes modelos de classificação:
 Instale as dependências com:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 Ou via `conda`:
 
 ```bash
-conda install pandas numpy matplotlib scikit-learn
+conda install -r requirements.txt
 ```
 
 ---
