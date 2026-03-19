@@ -67,8 +67,6 @@ jupyter notebook analise_classificadores.ipynb
 
 4. Execute as células em ordem (`Shift + Enter` ou *Run All*)
 
-> **Nota:** o dataset está embutido diretamente no notebook. Caso prefira carregar o arquivo Excel, descomente a linha `df = pd.read_excel(...)` na célula correspondente.
-
 ---
 
 ##  Resultados
